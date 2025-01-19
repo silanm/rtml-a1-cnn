@@ -6,4 +6,4 @@
 - Training time for the model with LRN is ~27 minutes 3 seconds
 - Adding LRN increases the training time slightly
 
-![](images/wip.gif)
+![](img/wip.gif)
